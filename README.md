@@ -1,6 +1,6 @@
 # 🌐 Ferdoushi Nahar Portfolio
 
-Welcome to the source code repository for **[Ferdoushin Ahar's Portfolio](https://ferdoushinahar.github.io/)**! This portfolio website showcases projects, skills, and professional information in an elegant and interactive manner.
+Welcome to the source code repository for **[Ferdoushi Nahar's Portfolio](https://ferdoushinahar.github.io/)**! This portfolio website showcases projects, skills, and professional information in an elegant and interactive manner.
 
 ---
 
